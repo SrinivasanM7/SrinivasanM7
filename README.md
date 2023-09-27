@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srinivasan M
+- 👋 Hi, I’m @SrinivasanM7
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Guvi IITM Master Data Science 
 - 💞️ I’m looking to collaborate on Data Science positions
